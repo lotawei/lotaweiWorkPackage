@@ -1,6 +1,6 @@
 public struct lotaweiWorkPackage {
-    var text = "Hello, World!"
-    init() {
+    public var text = "Hello, World!"
+    public init() {
         
     }
     public func TestPackage()  {
